@@ -133,3 +133,7 @@ ongoing
 ### Not
 
 * Meteor.js: needs Node.JS EOL version 14 which does not compatible with some new packages.  (Jun. 15, 2023)
+
+## References
+### Books
+* Cory Doctorow. Information Doesn't Want to Be Free: Laws for the Internet Age.
