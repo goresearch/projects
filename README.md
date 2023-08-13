@@ -2,3 +2,4 @@
 List of projects, plan, design, discussion, etc.
 # List of Projects
 - [Namaste](namaste/README.md): decentralized content recommendation platform, consumption history and review database, and beyond. 
+- [siddhartha](siddhartha.md): cross barriers between lives, explore and grow
